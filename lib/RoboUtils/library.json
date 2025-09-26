@@ -1,0 +1,21 @@
+{
+    "name": "RoboUtils",
+    "version": "1.0.0",
+    "description": "Utility functions for ESP32 robotics project",
+    "keywords": ["robotics", "esp32", "utilities"],
+    "authors": [
+        {
+            "name": "Projeto de Robótica 2025/2",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prof-Cleiton-Silvano/2025_2_Robotica.git"
+    },
+    "frameworks": ["arduino"],
+    "platforms": ["espressif32"],
+    "build": {
+        "includeDir": "src"
+    }
+}

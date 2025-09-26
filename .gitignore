@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# PlatformIO specific files
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.ccls-cache/
+*.tmp
+*.bak
+
+# IDE specific files
+*.code-workspace
